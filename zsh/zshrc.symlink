@@ -20,3 +20,8 @@ compinit
 
 # load every completion after autocomplete loads
 for config_file ($ZSH/**/completion.sh) source $config_file
+
+############### plugins=(command-coloring compleat rails git textmate ruby brew bundler osx rails3 rvm)
+
+cdpath=(~ ~/code ~/Code/rails/apps)
+

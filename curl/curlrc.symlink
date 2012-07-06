@@ -1,0 +1,6 @@
+# user-agent  = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1"
+# cacert      = /usr/local/etc/nginx/ssl/cochlear.dev.crt
+# cert-type   = PEM
+# verbose
+# remember this switch: -k/--insecure      Allow connections to SSL sites without certs (H)
+
